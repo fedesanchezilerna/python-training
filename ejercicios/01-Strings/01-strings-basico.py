@@ -1,3 +1,11 @@
+# Ejercicio 1: Métodos Básicos de Cadenas (Fácil)
+# Crea una variable `mensaje` con el texto "bienvenido a python" y muestra:
+# - El mensaje con la primera letra en mayúscula
+# - El mensaje completamente en mayúsculas
+# - El mensaje completamente en minúsculas
+# - Si el mensaje comienza con "bien"
+# - Cuántas veces aparece la letra "n"
+
 print("Ejercicio 1: Métodos Básicos de Cadenas")
 
 mensaje = "bienvenido a python"
